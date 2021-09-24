@@ -1,6 +1,6 @@
    
 # local package install
-#-e .
+-e .
 
 # third party packages
 dvc
